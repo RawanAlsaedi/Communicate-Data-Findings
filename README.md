@@ -25,6 +25,6 @@ Contain the data after exploration process.
 ## Notes
 - This project was developed using **_Jupyter_ _Notebook_**.
 - #### [Ford Gobike Data Presentation Slides:](https://github.com/RawanAlsaedi/Communicate-Data-Findings/blob/main/Part_II_slide_deck_Presentation_v%20slides.html)
-- is the HTML slide show , this should open a tab in your web browser where you can scroll through your presentation. Sub-slides can be accessed by pressing 'down' when viewing its parent slide.
+ is the HTML slide show , this should open a tab in your web browser where you can scroll through your presentation. Sub-slides can be accessed by pressing 'down' when viewing its parent slide.
  - #### [README File:](https://github.com/RawanAlsaedi/Communicate-Data-Findings/blob/main/README%5B1%5D%20(1).md)
-Contain the summary of findings and key insights for presentation.
+ Contain the summary of findings and key insights for presentation.
