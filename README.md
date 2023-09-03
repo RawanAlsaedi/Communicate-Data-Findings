@@ -1,6 +1,6 @@
 # Communicate Data Findings
 
-This project has two parts that demonstrate the importance and value of data visualization techniques in the data analysis process.
+### This project has two parts that demonstrate the importance and value of data visualization techniques in the data analysis process.
 
 
 #### [In Part I:](https://github.com/RawanAlsaedi/Communicate-Data-Findings/blob/main/Part_I_Ford%20Gobike%20Data%20Exploration%20Project.ipynb)  Exploratory data visualization, I used Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables.
