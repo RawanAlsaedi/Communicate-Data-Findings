@@ -7,7 +7,7 @@ This project has two parts that demonstrate the importance and value of data vis
 
 ##### [In Part II:](https://github.com/RawanAlsaedi/Communicate-Data-Findings/blob/main/Part_II_slide_deck_Presentation_v.ipynb)  Explanatory data visualization, I produced a short presentation that illustrates interesting properties, trends, and relationships that I discovered in the dataset. 
 
-### To Generate Slideshow:
+#### To Generate Slideshow:
 
 Use the jupyter nbconvert command to generate the HTML slide show.  From the terminal or command line, use the following expression.
 
