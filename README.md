@@ -16,9 +16,9 @@ Use the jupyter nbconvert command to generate the HTML slide show.  From the ter
 ```
 
 ## Required files
-- [fordgobike-tripdata dataset](https://github.com/RawanAlsaedi/Communicate-Data-Findings/blob/main/201902-fordgobike-tripdata%20(3).csv)
+- [fordgobike-tripdata dataset:](https://github.com/RawanAlsaedi/Communicate-Data-Findings/blob/main/201902-fordgobike-tripdata%20(3).csv)
 The dataset includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area and containing the trip data of the ford gobike about 183,412 with 16 features.
-- [Ford_Gobike_Data_Exploration dataset ](https://github.com/RawanAlsaedi/Communicate-Data-Findings/blob/main/Ford_Gobike_Data_Exploration.csv)
+- [Ford_Gobike_Data_Exploration dataset: ](https://github.com/RawanAlsaedi/Communicate-Data-Findings/blob/main/Ford_Gobike_Data_Exploration.csv)
 Contain the data after exploration process.
 
 
